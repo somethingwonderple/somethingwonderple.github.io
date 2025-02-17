@@ -1,8 +1,9 @@
 page_title                                : Wonderple
 
 ios_app_id                                :
-ios_app_country                           :
-appstore_link                             :
+ios_app_country                         :
+appstore_link                            : https://apps.apple.com/app/id6740434362
+appstore_link_kr                         : https://apps.apple.com/kr/app/id6740434362
 playstore_link                            : https://play.google.com/store/apps/details?id=com.meolly.fridge
 presskit_download_link                    :
 
@@ -17,38 +18,38 @@ app_description                           : 놀라울 만큼 편리한 냉장고
 app_description_eng                       : Wonderful, Easy Groceries Organizer
 
 features                                  :
-  - title                                 : 개인 냉장고
-    title_eng                             : Personal fridge
-    description                           : 로그인 없이도 간편하게 냉장고를 관리할 수 있어요.
-    description_eng                       : You can simply manage your fridge without any login.
-    fontawesome_icon_name                 : user
+  - title                                 : 냉장고를 한 눈에
+    title_eng                             : Your Fridge, at a Glance
+    description                           : 간편하게 냉장고를 관리할 수 있어요.
+    description_eng                       : Easily manage your fridge with simplicity.
+    fontawesome_icon_name                 : thumbs-up
     
   - title                                 : 패밀리 냉장고
-    title_eng                             : Family fridge
+    title_eng                             : Family Fridge
     description                           : 가족을 초대해 함께 냉장고를 관리할 수도 있어요.
     description_eng                       : You can also invite your family to manage the fridge together.
     fontawesome_icon_name                 : users
 
   - title                                 : 식품 데이터
-    title_eng                             : Food data
+    title_eng                             : Food Database
     description                           : 카테고리별로 제공되는 다양한 식품과, 귀여운 아이콘을 만나보세요.
     description_eng                       : Explore a variety of foods defined by category, along with cute icons.
     fontawesome_icon_name                 : book
 
   - title                                 : 간단한 입력 절차
-    title_eng                             : Easy to add
+    title_eng                             : Easy to Add
     description                           : 냉장실, 냉동실, 실온으로 나누어진 보관장소에 쉽게 추가해 보세요!
     description_eng                       : Easily add items to categorized storage areas like the fridge, freezer, and pantry!
     fontawesome_icon_name                 : plus
 
   - title                                 : 소비기한 알림
-    title_eng                             : Expiration date reminder
+    title_eng                             : Expiration date Reminder
     description                           : 입력된 소비기한을 바탕으로 원하는 날짜와 시간에 알려드려요.
     description_eng                       : We'll remind you at the desired date and time based on the inputted expiration date
     fontawesome_icon_name                 : bell
   
   - title                                 : 장보기 목록
-    title_eng                             : Shopping list
+    title_eng                             : Shopping List
     description                           : 구매할 식품을 장보기 목록으로 간편하게 관리하세요.
     description_eng                       : Effortlessly manage your grocery shopping list of items you need to purchase.
     fontawesome_icon_name                 : shopping-basket
